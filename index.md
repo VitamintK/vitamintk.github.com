@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Welcome to Humanities Core!
-tagline: War
+title: a classic!
+tagline: 2011
 ---
 {% include JB/setup %}
 
 
-<embed width="550" height="400" src="2011.swf"> 
+<embed width="1100" height="800" src="2011.swf"> 
 
