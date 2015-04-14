@@ -6,5 +6,5 @@ tagline: 2011
 {% include JB/setup %}
 
 
-<embed width="800" height="581" src="2011.swf"> 
+<embed width="600" height="437" src="2011.swf"> 
 
